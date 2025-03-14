@@ -7,7 +7,7 @@ A simple Memory Game where players flip cards to find matching pairs. Built usin
 1. Click on a card to flip it.
 2. Match two cards with the same number or icon.
 3. Match all pairs to win the game.
-4. Use the "Restart Game" button to reset the board.
+4. Use the "Restart" button to reset the board.
 
 
 ## Score
